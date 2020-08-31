@@ -1,10 +1,5 @@
 # THE PROJECT TEST
 This is the test a document.
 
-#Modified one
+# This is a test in module online GitHub
 
-<<<<<<< HEAD
-Linea modificado en branch Master
-=======
-Linea en branch very-bad
->>>>>>> very-bad
